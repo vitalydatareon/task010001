@@ -1,0 +1,48 @@
+{
+  "$type": "DT.ClusterConfiguration.ClusterNode, DT_Core",
+  "IsCoordinator": false,
+  "HasControlCenter": true,
+  "Address": "127.0.0.1",
+  "Port": 7290,
+  "IpAddress": null,
+  "ControlCenterPort": 7200,
+  "ServiceKey": "00000000-0000-0000-0000-000000000000",
+  "ReplicateTo": [],
+  "AllocationsGlobal": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "AllocationsLocal": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "AllocationsEffective": {
+    "$type": "DT.ClusterConfiguration.Allocation.AllocationConfig, DT_Core",
+    "Systems": [],
+    "Modules": [],
+    "DisableAutoAssignment": false
+  },
+  "IsBroken": false,
+  "BrokenReason": "None",
+  "IsActive": true,
+  "FolderId": "b10f7299-cc9e-4e59-84b6-100cdfb4c1ac",
+  "NodeParams": null,
+  "GlobalDiagnosticParams": null,
+  "LocalDiagnosticParams": null,
+  "NodeResolveList": [],
+  "DataBankParams": null,
+  "UseDiskControl": null,
+  "DiskUsageParams": null,
+  "LogStorageParams": null,
+  "EntityId": "85d783c1-5555-4f63-9071-82a79482b504",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "AXELOT6406",
+  "Description": "AXELOT6406",
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

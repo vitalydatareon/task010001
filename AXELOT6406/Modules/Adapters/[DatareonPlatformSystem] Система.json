@@ -1,0 +1,63 @@
+{
+  "$type": "DT.ClusterConfiguration.DtSystem, DT_Core",
+  "Config": {
+    "$type": "DT.ConfigurationRepository.Configuration.Adapter._1CSystemConfig, DT_ConfigurationRepository",
+    "ConnectorType": "_1C",
+    "Protocol": "Tcp",
+    "DbName": "german_esb1",
+    "Key": "416b14ec-0052-4515-8a89-87e0f109a290",
+    "UseServiceCredentials": false,
+    "WebSettings": null,
+    "TcpSettings": {
+      "$type": "DT.ConfigurationRepository.Configuration.Adapter.Tcp1CSettings, DT_ConfigurationRepository",
+      "SystemConnectionSettings": {
+        "$type": "DT.ConfigurationRepository.Configuration.Adapter.SystemConnectionSettings, DT_ConfigurationRepository",
+        "Servers": [
+          {
+            "$type": "DT.ConfigurationRepository.Configuration.Adapter.Server1C, DT_ConfigurationRepository",
+            "Server": "SRV-DT-ARCH01",
+            "Port": 1541
+          }
+        ],
+        "Publish": null,
+        "Account": null
+      },
+      "Port": 7221
+    },
+    "PipeSettings": null,
+    "Settings1C": {
+      "$type": "DT.ConfigurationRepository.Configuration.Adapter.Settings1CConfig, DT_ConfigurationRepository",
+      "AutoStartProcessing": false,
+      "WaitingTime": 0,
+      "ThreadCountToPlatform": 1,
+      "ThreadCountFromPlatform": 1,
+      "ShutDown": false,
+      "LiveTimeDefault": 7,
+      "LogDir": null,
+      "LogLevel": "Info",
+      "LogMbSize": 0,
+      "LogDaysSize": 0,
+      "BufferSizeMb": 10,
+      "BufferSizeMessages": 500,
+      "QueryBatchMessages": 50
+    },
+    "Auth": null,
+    "HandlersList": [],
+    "SendingStrategy": null
+  },
+  "IsActive": true,
+  "FolderId": "f6844789-dbcd-4403-ab54-5b57dfe81782",
+  "Servers": [
+    ""
+  ],
+  "GlobalDiagnosticParams": null,
+  "LocalDiagnosticParams": null,
+  "LogStorageParams": null,
+  "EntityId": "75110629-ddf3-4516-985d-c79a7d7f2d20",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "Система",
+  "Description": "Система",
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": []
+}

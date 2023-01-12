@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "InputTransformers",
+  "FolderId": "5e900695-38ba-46c7-8fcf-51317b5cf07b",
+  "EntityId": "73a8ba61-6c0f-4eea-8b58-012953053d98",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "Входящие трансформации",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "UiMenu",
+  "FolderId": "5e900695-38ba-46c7-8fcf-51317b5cf07b",
+  "EntityId": "733333b2-ea44-4457-86e7-2ef136e53e0f",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "ЮИ меню",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

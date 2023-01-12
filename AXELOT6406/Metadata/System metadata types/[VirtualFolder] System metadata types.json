@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "SystemsMetadataTypes",
+  "FolderId": "5e900695-38ba-46c7-8fcf-51317b5cf07b",
+  "EntityId": "af727613-161f-4183-aede-66d5b8fef496",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "Типы метаданных систем",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}

@@ -1,0 +1,12 @@
+{
+  "$type": "DT.VirtualFolder, DT_Core",
+  "Type": "UiMetadata",
+  "FolderId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "EntityId": "f45bdffe-4980-4674-bce1-1fd329544896",
+  "ClusterId": "ad35d2ca-d8e2-4191-8866-e7b3fb716b82",
+  "Name": "Элементы пользовательского интерфейса",
+  "Description": null,
+  "Comment": null,
+  "Version": 1,
+  "TagsCollection": null
+}
